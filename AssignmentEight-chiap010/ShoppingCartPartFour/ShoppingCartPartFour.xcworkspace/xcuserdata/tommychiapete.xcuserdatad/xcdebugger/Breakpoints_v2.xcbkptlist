@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D1C2CD47-BB8F-4EA1-82B3-DF8123D925F8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE7E673A-D33F-4BEB-8AF4-E3CD6ABE7CA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28">
+            <Locations>
+               <Location
+                  uuid = "CE7E673A-D33F-4BEB-8AF4-E3CD6ABE7CA8 - b6a2b16349bdc0aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.fetchData() -&gt; ()"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "CE7E673A-D33F-4BEB-8AF4-E3CD6ABE7CA8 - f56c8e98a22da25e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShoppingCartPartFour.ItemViewModel.fetchData() -&gt; ()"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40346316-7ADE-4ACC-81A0-B87F13F2FD97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBF39EDC-BF9B-4C3A-9303-774069A51752"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BBF39EDC-BF9B-4C3A-9303-774069A51752 - 455d3e5834298831"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ListView.body.getter : some"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "BBF39EDC-BF9B-4C3A-9303-774069A51752 - 4c07e1fc30ee59f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ShoppingCartPartFour.Item) -&gt; ShoppingCartPartFour.RowView in ShoppingCartPartFour.ListView.body.getter : some"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E137A23-C3F1-4B53-95BB-67F70267B5D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F0DFD86-CF32-4DFA-B2FD-CA95B26B03F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19">
+            <Locations>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - 368e05fa396685eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ShoppingCartPartFour.ItemViewModel.items : Swift.Array&lt;ShoppingCartPartFour.Item&gt;"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - 2c940a964cf761ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.items.getter : Swift.Array&lt;ShoppingCartPartFour.Item&gt;"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - 406f2cde017889de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.items.setter : Swift.Array&lt;ShoppingCartPartFour.Item&gt;"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - ee5e89bf99bdedf8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.items.modify : Swift.Array&lt;ShoppingCartPartFour.Item&gt;"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - e4df14b573c20e64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.items.modify : Swift.Array&lt;ShoppingCartPartFour.Item&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - 2166867153f7c2d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.$items.getter : Combine.Published&lt;Swift.Array&lt;ShoppingCartPartFour.Item&gt;&gt;.Publisher"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - 2166867153f7c2d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.$items.setter : Combine.Published&lt;Swift.Array&lt;ShoppingCartPartFour.Item&gt;&gt;.Publisher"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - 9be76020c38f327a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.$items.modify : Combine.Published&lt;Swift.Array&lt;ShoppingCartPartFour.Item&gt;&gt;.Publisher"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - 424be90a611beabe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.$items.modify : Combine.Published&lt;Swift.Array&lt;ShoppingCartPartFour.Item&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "CD5AB48D-327C-409D-A5C5-504C251D31C8 - 755010afc6b908bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingCartPartFour.ItemViewModel.init() -&gt; ShoppingCartPartFour.ItemViewModel"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "90">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16DA5A80-972C-4562-9A29-B19ABDDA5245"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "977B5060-DF85-424A-98AA-FC0D0CDB1710"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BFFFD2E-72DF-4850-B9B7-B3AA95424790"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B32DE1C-799C-4C4C-ABD7-D8937BDFF5E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38">
+            <Locations>
+               <Location
+                  uuid = "1B32DE1C-799C-4C4C-ABD7-D8937BDFF5E3 - f56c8e98a22da2f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShoppingCartPartFour.ItemViewModel.fetchData() -&gt; ()"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "494">
+               </Location>
+               <Location
+                  uuid = "1B32DE1C-799C-4C4C-ABD7-D8937BDFF5E3 - 8c59c53b78228ccc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRQueryDocumentSnapshot) -&gt; ShoppingCartPartFour.Item in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShoppingCartPartFour.ItemViewModel.fetchData() -&gt; ()"
+                  moduleName = "ShoppingCartPartFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tommychiapete/Documents/Projects/AssignmentEight-chiap010/AssignmentEight-chiap010/ShoppingCartPartFour/ShoppingCartPartFour/ItemViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5F7C0F1-45E9-4008-A5B5-F2CA834BFA78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66E7A18C-7716-4389-8CB6-F8447D7C0AE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ItemViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5394898C-84A1-41FE-82B0-F766781C6E46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingCartPartFour/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
